@@ -1,4 +1,4 @@
-# Nano_Nrf24_AHT10_TX
+# Nano_Nrf24_AHT10_TX-RX-Mqtt
 
 ### Wireless Environmental Monitoring System with nRF24L01+
 
