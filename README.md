@@ -59,4 +59,4 @@ Public Domain / CC0. Use freely for any purpose.
 
 ---
 
-Created by **אמיר** — June 2025
+Created by **AMIR** — June 2025
