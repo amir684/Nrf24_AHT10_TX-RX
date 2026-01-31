@@ -6,6 +6,8 @@ This project is a lightweight, battery-friendly wireless monitoring system using
 
 ![image alt](https://github.com/amir684/Nrf24_AHT10_TX-RX/blob/main/images/20250629_215059.jpg)
 
+![image alt](https://github.com/amir684/Nrf24_AHT10_TX-RX/blob/main/images/20250629_214156.jpg)
+
 ---
 
 ## 🛰️ Components
