@@ -68,4 +68,4 @@ Public Domain / CC0. Use freely for any purpose.
 
 ---
 
-Created by **AMIR** — June 2025
+Created by **AmirY** — June 2025
