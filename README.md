@@ -17,6 +17,9 @@ This project is a lightweight, battery-friendly wireless monitoring system using
 - **Function**: Reads temperature, humidity, and battery voltage. Sends packets over nRF24.  
 - **Power Efficient**: Designed for long-term battery operation.
 
+![image alt](https://github.com/amir684/Nrf24_AHT10_TX-RX/blob/main/images/20250629_215127.jpg)
+
+
 ### 2. **Receiver with OLED**  
 - **Hardware**: Arduino Nano + nRF24L01+ + OLED 128x32  
 - **Function**: Receives and displays data in real-time:  
