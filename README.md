@@ -4,6 +4,8 @@
 
 This project is a lightweight, battery-friendly wireless monitoring system using **Arduino**, **AHT10**, and **nRF24L01+** modules. It includes a single transmitter and two types of receivers:
 
+![image alt](https://github.com/amir684/Nrf24_AHT10_TX-RX/blob/main/images/20250629_215059.jpg)
+
 ---
 
 ## 🛰️ Components
