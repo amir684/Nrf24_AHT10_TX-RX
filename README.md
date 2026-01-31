@@ -28,6 +28,8 @@ This project is a lightweight, battery-friendly wireless monitoring system using
   • Battery Voltage (V)  
   • Message Count & Timeout Since Last Message
 
+![image alt](https://github.com/amir684/Nrf24_AHT10_TX-RX/blob/main/images/Screenshot%202025-06-29%20215225.png)
+
 ### 3. **Receiver with MQTT**  
 - **Hardware**: ESP8266 (e.g. Wemos D1 Mini) + nRF24L01+  
 - **Function**: Receives packets and publishes them to an MQTT broker in JSON format for Home Assistant or similar platforms.
